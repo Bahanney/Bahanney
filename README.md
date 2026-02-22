@@ -1,48 +1,46 @@
-# Hi there, I'm 
+# Hi, I'm Ibinabo Collins 👋
 
-<div align="left">
+### Junior DevOps Engineer | CI/CD | Cloud Infrastructure | Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=45&duration=2500&pause=100000&color=E75480&vCenter=true&width=600&lines=✨+Ibinabo+Collins+✨" />
-
-</div>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=C77DFF&left=true&vCenter=true&width=650&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Pipeline+Automation;Cloud+Infrastructure+Builder" />
-
----
-
-## 🌸 About Me
-
-DevOps Engineer passionate about building scalable infrastructure and automating deployments.
-
-- ☁️ AWS Cloud Infrastructure  
-- 🔄 CI/CD Pipelines  
-- 🐳 Docker & Kubernetes  
-- ⚙️ Terraform & Ansible  
-- 🌍 Based in Canada  
-- 💼 Open to DevOps opportunities  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud+Engineer;CI/CD+Pipeline+Builder;Infrastructure+as+Code+Enthusiast)
 
 ---
 
 ## 🛠️ Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-FADADD?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-E6CCFF?style=for-the-badge&logo=docker&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-FADADD?style=for-the-badge&logo=kubernetes&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-E6CCFF?style=for-the-badge&logo=jenkins&logoColor=black)
-![Terraform](https://img.shields.io/badge/Terraform-FADADD?style=for-the-badge&logo=terraform&logoColor=black)
-![Ansible](https://img.shields.io/badge/Ansible-E6CCFF?style=for-the-badge&logo=ansible&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 About Me
+
+- 🔧 Focused on building scalable CI/CD pipelines  
+- ☁️ Passionate about cloud infrastructure & automation  
+- 📦 Experienced with Docker & Kubernetes deployments  
+- 🌍 Based in Canada  
+- 💼 Open to DevOps opportunities  
 
 ---
 
 ## 🚀 Featured Projects
 
-• CI/CD Pipeline with Jenkins, Docker & Kubernetes  
-• Kubernetes Deployment using Terraform & Ansible  
-• Dockerized Applications  
-• Infrastructure Automation  
+- 🔹 CI/CD Pipeline with Jenkins, Docker & Kubernetes  
+- 🔹 Kubernetes Cluster Deployment using Terraform & Ansible  
+- 🔹 Dockerized Java Web Application  
+- 🔹 Infrastructure Automation with Ansible  
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=bahanney&theme=tokyonight)
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-LinkedIn: (www.linkedin.com/in/ibinabo-collins-)  
+- 💼 LinkedIn: (www.linkedin.com/in/ibinabo-collins-)
