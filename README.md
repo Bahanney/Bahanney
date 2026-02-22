@@ -6,11 +6,6 @@
 <!-- Animated typing banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=☁️+Building+Cloud+Infrastructure;🚀+Automating+Everything+Possible;🐳+Containerizing+the+World;🔧+CI%2FCD+Pipeline+Architect;💡+Infrastructure+as+Code+Enthusiast)](https://git.io/typing-svg)
 
-<br/>
-
-<!-- Profile views + followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=bahanney&style=for-the-badge&color=0099ff&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/bahanney?style=for-the-badge&color=0099ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/bahanney)
 
 </div>
 
