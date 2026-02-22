@@ -16,10 +16,6 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
 ## 👩🏾‍💻 About Me
 
 ```yaml
@@ -34,19 +30,6 @@ focus:
 status: 💼 Open to DevOps opportunities
 philosophy: "Automate once. Scale forever."
 ```
-
-</td>
-<td valign="top" width="45%">
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahanney&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bahanney&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -89,39 +72,6 @@ philosophy: "Automate once. Scale forever."
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔷 **[Jenkins CI/CD Pipeline](https://github.com/bahanney)** | End-to-end automated pipeline with Docker build, test & Kubernetes deploy | Jenkins · Docker · K8s |
-| 🔷 **[Kubernetes Cluster with Terraform](https://github.com/bahanney)** | Full IaC cluster provisioning on AWS EKS using Terraform modules | Terraform · AWS EKS · Ansible |
-| 🔷 **[Dockerized Java Web App](https://github.com/bahanney)** | Containerized Java application with multi-stage builds & optimized images | Docker · Java · Nginx |
-| 🔷 **[Ansible Infrastructure Automation](https://github.com/bahanney)** | Playbooks automating server configuration, patching & app deployment | Ansible · Linux · Bash |
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bahanney&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=bahanney&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10)
-
-</div>
 
 ---
 
