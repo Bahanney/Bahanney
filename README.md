@@ -1,46 +1,147 @@
-# Hi, I'm Ibinabo Collins 👋
+<div align="center">
 
-### Junior DevOps Engineer | CI/CD | Cloud Infrastructure | Automation
+<!-- Elegant animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ibinabo%20Collins&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud+Engineer;CI/CD+Pipeline+Builder;Infrastructure+as+Code+Enthusiast)
+<!-- Animated typing banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=☁️+Building+Cloud+Infrastructure;🚀+Automating+Everything+Possible;🐳+Containerizing+the+World;🔧+CI%2FCD+Pipeline+Architect;💡+Infrastructure+as+Code+Enthusiast)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Profile views + followers badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=bahanney&style=for-the-badge&color=0099ff&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/bahanney?style=for-the-badge&color=0099ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/bahanney)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td valign="top" width="55%">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+## 👩🏾‍💻 About Me
+
+```yaml
+name: Ibinabo Collins
+role: Junior DevOps Engineer
+location: Canada 🍁
+focus:
+  - CI/CD Pipeline Design
+  - Cloud Infrastructure (AWS)
+  - Container Orchestration
+  - Infrastructure as Code
+status: 💼 Open to DevOps opportunities
+philosophy: "Automate once. Scale forever."
+```
+
+</td>
+<td valign="top" width="45%">
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahanney&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bahanney&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 GitHub Activity Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=bahanney&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+**Containers & Orchestration**
 
-## 🚀 About Me
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-- 🔧 Focused on building scalable CI/CD pipelines  
-- ☁️ Passionate about cloud infrastructure & automation  
-- 📦 Experienced with Docker & Kubernetes deployments  
-- 🌍 Based in Canada  
-- 💼 Open to DevOps opportunities  
+**CI/CD & Monitoring**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Languages & Scripting**
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 CI/CD Pipeline with Jenkins, Docker & Kubernetes  
-- 🔹 Kubernetes Cluster Deployment using Terraform & Ansible  
-- 🔹 Dockerized Java Web Application  
-- 🔹 Infrastructure Automation with Ansible  
+<div align="center">
 
-## 🔥 GitHub Streak
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔷 **[Jenkins CI/CD Pipeline](https://github.com/bahanney)** | End-to-end automated pipeline with Docker build, test & Kubernetes deploy | Jenkins · Docker · K8s |
+| 🔷 **[Kubernetes Cluster with Terraform](https://github.com/bahanney)** | Full IaC cluster provisioning on AWS EKS using Terraform modules | Terraform · AWS EKS · Ansible |
+| 🔷 **[Dockerized Java Web App](https://github.com/bahanney)** | Containerized Java application with multi-stage builds & optimized images | Docker · Java · Nginx |
+| 🔷 **[Ansible Infrastructure Automation](https://github.com/bahanney)** | Playbooks automating server configuration, patching & app deployment | Ansible · Linux · Bash |
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bahanney&theme=tokyonight)
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Contribution Activity
 
-- 💼 LinkedIn: (www.linkedin.com/in/ibinabo-collins-)
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bahanney&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=bahanney&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibinabo_Collins-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibinabo-collins-)
+[![GitHub](https://img.shields.io/badge/GitHub-bahanney-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahanney)
+[![Email](https://img.shields.io/badge/Email-Available_on_Request-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best infrastructure is the one no one thinks about — because it just works."*
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
