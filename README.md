@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Elegant animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ibinabo%20Collins&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ibinabo%20Collins&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontStyle=italic&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
+
+<!-- Fancy animated name -->
+[![Fancy Name](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=42&duration=4000&pause=2000&color=00D4FF&center=true&vCenter=true&width=700&lines=✦+Ibinabo+Collins+✦)](https://git.io/typing-svg)
 
 <!-- Animated typing banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=☁️+Building+Cloud+Infrastructure;🚀+Automating+Everything+Possible;🐳+Containerizing+the+World;🔧+CI%2FCD+Pipeline+Architect;💡+Infrastructure+as+Code+Enthusiast)](https://git.io/typing-svg)
@@ -30,16 +33,6 @@ focus:
 status: 💼 Open to DevOps opportunities
 philosophy: "Automate once. Scale forever."
 ```
-
----
-
-## 🔥 GitHub Activity Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=bahanney&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888)
-
-</div>
 
 ---
 
@@ -72,6 +65,16 @@ philosophy: "Automate once. Scale forever."
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ---
+
+---
+
+## 🔥 GitHub Activity Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=bahanney&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888)
+
+</div>
 
 ---
 
