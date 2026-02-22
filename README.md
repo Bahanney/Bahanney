@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Elegant animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ibinabo%20Collins&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontStyle=italic&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
-
-<!-- Fancy animated name -->
-[![Fancy Name](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=42&duration=4000&pause=2000&color=00D4FF&center=true&vCenter=true&width=700&lines=✦+Ibinabo+Collins+✦)](https://git.io/typing-svg)
+<!-- Elegant animated header banner with fancy name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Ibinabo%20Collins&fontSize=65&fontColor=00D4FF&animation=twinkling&fontAlignY=42&fontStyle=italic,bold&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=62&descAlign=50&descSize=20&descColor=ffffff" width="100%"/>
 
 <!-- Animated typing banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=☁️+Building+Cloud+Infrastructure;🚀+Automating+Everything+Possible;🐳+Containerizing+the+World;🔧+CI%2FCD+Pipeline+Architect;💡+Infrastructure+as+Code+Enthusiast)](https://git.io/typing-svg)
@@ -63,8 +60,6 @@ philosophy: "Automate once. Scale forever."
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
----
 
 ---
 
