@@ -1,54 +1,59 @@
-# Hi, I'm Ibinabo Collins 👋
+<div align="center">
 
-### Junior DevOps Engineer | CI/CD | Cloud Infrastructure | Automation
+# ✨ 𝑰𝒃𝒊𝒏𝒂𝒃𝒐 𝑪𝒐𝒍𝒍𝒊𝒏𝒔 ✨
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud+Engineer;CI/CD+Pipeline+Builder;Infrastructure+as+Code+Enthusiast)
+### ☁️ DevOps Engineer | CI/CD Specialist | Cloud Infrastructure Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Cloud+Systems;CI%2FCD+Pipeline+Automation;AWS+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code+Expert;Open+to+DevOps+Opportunities" />
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div>
+
+![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=00F7FF)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=00F7FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0A?style=for-the-badge&logo=kubernetes&logoColor=00F7FF)
+![Jenkins](https://img.shields.io/badge/Jenkins-0A0A0A?style=for-the-badge&logo=jenkins&logoColor=00F7FF)
+![Terraform](https://img.shields.io/badge/Terraform-0A0A0A?style=for-the-badge&logo=terraform&logoColor=00F7FF)
+![Ansible](https://img.shields.io/badge/Ansible-0A0A0A?style=for-the-badge&logo=ansible&logoColor=00F7FF)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=00F7FF)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔧 Focused on building scalable CI/CD pipelines  
-- ☁️ Passionate about cloud infrastructure & automation  
-- 📦 Experienced with Docker & Kubernetes deployments  
+- ⚡ DevOps Engineer passionate about automation  
+- ☁️ Building scalable cloud infrastructure  
+- 🔄 Designing and implementing CI/CD pipelines  
+- 🐳 Containerization with Docker & Kubernetes  
 - 🌍 Based in Canada  
-- 💼 Open to DevOps opportunities  
+- 💼 Open to DevOps roles  
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Work
 
-- 🔹 CI/CD Pipeline with Jenkins, Docker & Kubernetes  
-- 🔹 Kubernetes Cluster Deployment using Terraform & Ansible  
-- 🔹 Dockerized Java Web Application  
-- 🔹 Infrastructure Automation with Ansible  
-
----
-
-## 📊 GitHub Stats
-
-![Ibinabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahanney&show_icons=true&theme=tokyonight)
+- CI/CD pipeline using Jenkins, Docker, Kubernetes  
+- Kubernetes cluster deployment using Terraform & Ansible  
+- Dockerized production applications  
+- Infrastructure automation projects  
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=bahanney&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
 - 💼 LinkedIn: (Ibinabo Collins)
+
+---
+
+<div align="center">
+
+✨ "Automating today for a scalable tomorrow." ✨
+
+</div>
